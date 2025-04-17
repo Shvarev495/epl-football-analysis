@@ -21,6 +21,9 @@
 
 ## 🚀 Скриншот:
 ![Зависимость карточек](https://raw.githubusercontent.com/Shvarev495/epl-football-analysis/main/epl_yellow_vs_red.png)
+
+![Среднее количество голов по таймам](https://raw.githubusercontent.com/Shvarev495/epl-football-analysis/main/epl_goals_by_half.png)
+
 ---
 
 ## 👨‍💻 Автор
