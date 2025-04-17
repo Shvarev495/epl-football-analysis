@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Скриншот:
-
+![Зависимость карточек](https://raw.githubusercontent.com/Shvarev495/epl-football-analysis/main/epl_yellow_vs_red.png)
 ---
 
 ## 👨‍💻 Автор
